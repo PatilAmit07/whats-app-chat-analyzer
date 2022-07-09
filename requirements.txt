@@ -5,4 +5,4 @@ urlextract
 wordcloud
 pandas
 emoji
-python
+python==3.7
